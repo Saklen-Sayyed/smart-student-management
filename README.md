@@ -16,3 +16,5 @@ Implemented a console-based Student Management System using **singly linked list
 - Integrated text-to-speech (TTS) using PowerShell Speech API for voice-based user interaction
 
 ## 📁 Project Structure
+## 🎥 Demo
+[▶ Watch the demo video](demo/Student-Management-Demo.mp4)
