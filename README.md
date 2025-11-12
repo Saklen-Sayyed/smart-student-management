@@ -14,7 +14,16 @@ Implemented a console-based Student Management System using **singly linked list
 - Persistent storage: save/load via a text file
 - Input validation and simple formatting
 - Integrated text-to-speech (TTS) using PowerShell Speech API for voice-based user interaction
+- 
+## 🛠 Technology
+- Language: C
+- Concepts: Linked Lists, File I/O, Sorting, Recursion
+- Environment: Any C compiler (GCC/MinGW), Windows console or Linux terminal
 
-## 📁 Project Structure
+## 📝 How to run (locally)
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Saklen-Sayyed/smart-student-management.git
+   
 ## 🎥 Demo
 [▶ Watch the demo video](demo/Student-Management-Demo.mp4)
