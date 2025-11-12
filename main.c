@@ -1,3 +1,41 @@
+/***************************************************************
+ * Project      : Smart Student Management System
+ * File Name    : main.c
+ * Description  : Menu-driven Student Record Management System 
+ *                implemented in C using linked lists and file I/O.
+ *                Supports CRUD operations, sorting, and persistence.
+ *
+ * Author       : Saklen Sayyed
+ * Created On   : September 2025
+ * Version      : 1.0
+ *
+ * Compiler     : GCC / MinGW
+ * Platform     : Windows
+ *
+ * -------------------------------------------------------------
+ * Features:
+ *  - Add, insert, delete, and edit student records
+ *  - Search records by name or roll number
+ *  - Sort records (ascending/descending)
+ *  - Reverse and midpoint record display
+ *  - Save and load records from text file
+ *
+ * -------------------------------------------------------------
+ * License:
+ *  MIT License (See LICENSE file for details)
+ *
+ * -------------------------------------------------------------
+ * Notes:
+ *  This project demonstrates dynamic data handling using 
+ *  singly linked lists and file-based persistence — ideal 
+ *  for embedded and systems programming fundamentals.
+ * Author Notes:
+ *	I have done this project side by side as i was learning C, 
+ 	It is my first programming language so there might be some 
+	mistakes or code might not be that optimised i will improve 
+	upon myself  
+ ***************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -647,4 +685,5 @@ void speak(const char *text){
 			
 	system(command);
 }
+
 
